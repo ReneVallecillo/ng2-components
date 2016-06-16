@@ -1,4 +1,3 @@
-///<reference path="../typings/browser.d.ts"/>
 import {Component, Renderer, ViewChild, ElementRef} from '@angular/core';
 
 @Component({
